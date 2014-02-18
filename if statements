@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="moons.js" type="text/javascript"></script>
+<title>Three blocks</title>
+</head>
+<body>
+<h1>Choose a color</h1>
+
+<button><p>red</p></button>
+<button><p>green</p></button>
+<button><p>blue</p></button>
+
+
+<script>
+
+if(red){
+document.createComment('Roses are red.');
+}
+
+
+
+
+
+
+
+</script>
+
+
+</body>
+
+</html>
